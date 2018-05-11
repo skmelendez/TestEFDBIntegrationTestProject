@@ -45,6 +45,12 @@ namespace TestProject.Tests
         }
 
         [TestMethod]
+        public void AA_StartupCheckDBExists()
+        {
+            Assert.IsTrue(Entity.Database.Exists());
+        }
+
+        [TestMethod]
         public async Task TestAddUser()
         {
             await AddUser();
@@ -78,9 +84,8 @@ namespace TestProject.Tests
             user.UserDetails.FirstOrDefault().FirstName = "Jonathan";
             Entity.Users.AddOrUpdate(user);
             await Entity.SaveChangesAsync();
-
             user = await GetUser(_userEmail);
-            Assert.IsTrue(user.UserDetails.FirstOrDefault().FirstName == "Jonathan");
+            Assert.IsTrue(user.UserDetails.FirstOrDefault()?.FirstName == "Jonathan");
         }
 
 
