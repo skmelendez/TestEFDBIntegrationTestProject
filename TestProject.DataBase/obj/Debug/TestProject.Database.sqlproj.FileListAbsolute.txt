@@ -1,0 +1,6 @@
+c:\users\skmel\source\repos\TestProject.Database\TestProject.Database\bin\Debug\TestProject.dacpac
+c:\users\skmel\source\repos\TestProject.Database\TestProject.Database\bin\Debug\TestProject.Database.dll
+c:\users\skmel\source\repos\TestProject.Database\TestProject.Database\bin\Debug\TestProject.Database.pdb
+c:\users\skmel\source\repos\TestProject.Database\TestProject.Database\obj\Debug\TestProject.Database.dll
+c:\users\skmel\source\repos\TestProject.Database\TestProject.Database\obj\Debug\TestProject.Database.pdb
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.Database\obj\Debug\TestProject.DataBase.sqlprojResolveAssemblyReference.cache

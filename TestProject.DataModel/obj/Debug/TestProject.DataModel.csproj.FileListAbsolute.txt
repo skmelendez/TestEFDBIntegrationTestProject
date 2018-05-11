@@ -1,0 +1,12 @@
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\TestProject.DataModel.dll.config
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\TestProject.DataModel.dll
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\TestProject.DataModel.pdb
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\obj\Debug\TestProject.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\obj\Debug\TestProject.DataModel.csproj.CopyComplete
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\obj\Debug\TestProject.DataModel.dll
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\obj\Debug\TestProject.DataModel.pdb
+C:\Users\skmel\source\repos\TestProject.Database\TestProject.DataModel\obj\Debug\TestProject.DataModel.csprojResolveAssemblyReference.cache
